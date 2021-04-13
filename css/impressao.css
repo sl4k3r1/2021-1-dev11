@@ -1,0 +1,16 @@
+/* css/impressao.css */
+
+.conteudo h1 {
+	font-family: courier;
+	font-size: 60px;
+	color: red;
+}
+
+.secao-home p {
+	font-size: 34px;
+	text-shadow: none;
+	border: none;
+	box-shadow: none;
+	width: 100%;
+	text-align: justify;
+}

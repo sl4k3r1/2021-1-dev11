@@ -1,0 +1,51 @@
+/* css/contato.css */
+.secao-contato {
+	width: 996px;
+	margin: 0 auto;
+	padding-top: 150px;
+}
+/* cor borda #c623cd */
+input, textarea, button {
+	font-family: arial, "trebuchet ms", courier;
+	display: block;
+	margin: 8px auto;
+	width: 400px;
+	padding: 7px;
+	border: 5px solid #000000;
+	border-radius: 5px;
+	box-shadow: 0px 5px 60px #000000;	
+}
+textarea {
+	resize: none;
+	height: 60px;
+}
+button[type=submit] {
+	width: 100px;
+	border-radius: 50px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+#erro {
+	color: black;
+	font-weight: bold;
+	width: 400px;
+	margin: 0 auto;
+	font-size: 20px;
+	padding: 7px;
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
