@@ -1,47 +1,57 @@
 /* css/petshop.css*/
+
 @font-face {
 	font-family: Starjedi;
 	src: url("../fonts/Starjedi.ttf");
 }
+
 body {
+	margin: 0;
+	padding: 0;
 	background: url(../img/bg-pet-2.jpg);
 	margin: 0;
 	font-family: arial, "trebuchet ms", courier;
 }
+
 header {
-	background: #000000;
+	background: #ffffff;
 	height: 180px;
-	
 }
+
 .conteudo {
-	background: #000000;
+	background: #ffffff;
 	width: 996px;
 	height: 180px;
 	margin: 0 auto 0 auto;
 }
+
 .conteudo h1 {
-	color: #ffffff;
+	color: #000000;
 	font-size: 40px;
 	text-transform: uppercase;
 }
+
 .logo {
-	
 	width: 68px;
 	height: 91px;
 	background: url(../img/logo-pet.png);
-	margin: 10px 20px 50px 11px;	
+	margin: 10px 20px 50px 11px;
 }
+
 .logo:hover {
 	background: url(../img/logo-pet-hover.png);
 }
+
 .logo, .conteudo h1 {
 	float: left;
 }
+
 .conteudo nav {
 	clear: both;
 }
+
 .conteudo nav a {
-	color: #ffffff;
+	color: #000000;
 	font-size: 15px;
 	text-transform: uppercase;
 	text-decoration: none;
@@ -55,39 +65,38 @@ header {
 
 .conteudo .home:hover {
 	background: #f1d009;
-	
 }
 
 .conteudo .produtos {
 	border-bottom: 4px solid #fa9a07;
 }
+
 .conteudo .produtos:hover {
 	background: #fa9a07;
-	
 }
 
 .conteudo .galeria {
 	border-bottom: 4px solid #98ab02;
 }
+
 .conteudo .galeria:hover {
 	background: #98ab02;
-	
 }
 
 .conteudo .servicos {
 	border-bottom: 4px solid #74d401;
 }
+
 .conteudo .servicos:hover {
 	background: #74d401;
-	
 }
 
 .conteudo .contato {
 	border-bottom: 4px solid #c623cd;
 }
+
 .conteudo .contato:hover {
 	background: #c623cd;
-	
 }
 
 /* rodape */
@@ -101,7 +110,6 @@ footer {
 	text-align: center;
 	padding: 20px;
 }
-
 
 
 
