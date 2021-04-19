@@ -1,0 +1,24 @@
+/* css/mobile.css - media queries */
+@media (max-width: 800px) {
+	header {
+		background: red;
+	}
+	.conteudo nav a {
+		display: block;
+		width: 100%;
+	}
+	.logo {
+		display: none;
+	}
+	.conteudo h1 {
+		display: none;
+	}
+}
+
+@media (max-width: 400px) and (orientation: landscape){
+	header {
+		background: violet;
+	}
+}
+
+
