@@ -1,0 +1,42 @@
+/* css/produtos.css */
+
+.secao-produtos {
+	height: 100vh;
+	
+	margin: 0 auto;
+	background-image: linear-gradient(to bottom right, #40E0D0, #8FBC8F);
+	background-repeat: no-repeat;	
+	padding:  112px;	
+	position: relative;
+}
+
+.focus-image{
+
+    width: fit-content;
+    block-size: fit-content;
+    justify-content: center;
+}
+
+.album {
+	width: 610px;
+	border: 5px solid #8FBC8F;
+	background: #ffffff;
+	border-radius: 15px;
+	margin: 0 auto;
+	box-shadow: 0px 5px 60px #8FBC8F;
+	text-align: center;
+	padding-top: 10px;
+	text-shadow: 0px 4px 8px gray;
+	padding-bottom: 5px;
+    display:grid;
+    align-content: center;
+    
+
+}
+
+.miniaturas img {
+	border: 3px solid #000000;
+	width: 90px;
+    height: 80px;
+	border-radius: 10px;
+}
