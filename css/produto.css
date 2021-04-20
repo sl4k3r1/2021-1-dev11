@@ -2,7 +2,6 @@
 
 .secao-produtos {
 	height: 100vh;
-	
 	margin: 0 auto;
 	background-image: linear-gradient(to bottom right, #40E0D0, #8FBC8F);
 	background-repeat: no-repeat;	
@@ -11,7 +10,6 @@
 }
 
 .focus-image{
-
     width: fit-content;
     block-size: fit-content;
     justify-content: center;
@@ -30,8 +28,6 @@
 	padding-bottom: 5px;
     display:grid;
     align-content: center;
-    
-
 }
 
 .miniaturas img {
