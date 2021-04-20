@@ -6,8 +6,6 @@
 }
 
 body {
-	margin: 0;
-	padding: 0;
 	background: url(../img/bg-pet-2.jpg);
 	margin: 0;
 	font-family: arial, "trebuchet ms", courier;
@@ -110,7 +108,6 @@ footer {
 	text-align: center;
 	padding: 20px;
 }
-
 
 
 
