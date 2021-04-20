@@ -13,6 +13,8 @@
     width: fit-content;
     block-size: fit-content;
     justify-content: center;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .album {
