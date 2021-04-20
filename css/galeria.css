@@ -2,14 +2,11 @@
 
 .secao-galeria {
 	height: 100vh;
-	width: 100vw;
+	
+	margin: 0 auto;
 	background-image: linear-gradient(to bottom right, #40E0D0, #8FBC8F);
-	background-repeat: no-repeat;
-	background-position: center;
-	justify-content: center;
-	box-sizing: border-box;
-	padding: 0 112px;
-	padding: 0 112px;
+	background-repeat: no-repeat;	
+	padding:  112px;	
 	position: relative;
 }
 
